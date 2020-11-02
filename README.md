@@ -2,8 +2,8 @@
 
 <div align="center">
    <!-- Twitter -->
-   <a href="https://twitter.com/codesandtags">
-      <img src="https://img.shields.io/twitter/follow/codesandtags?label=follow%20me&style=social"
+   <a href="https://twitter.com/zetsu_031">
+      <img src="https://img.shields.io/twitter/follow/zetsu_031?label=follow%20me&style=social"
          alt="twitter-link" />
   </a>  
    
@@ -15,9 +15,13 @@
       
    <!-- Linkedin Profile -->
    <a href="https://www.linkedin.com/in/walter-daniel-sanchez-769734189/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel Sanchez" height="30" width="30"> 
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel Sanchez" height="30"> 
    </a>
    
+   <!-- Behance badge -->
+   <a href="https://www.behance.net/danielsc07">
+      <img src="/aleen42/badges/raw/master/src/behance.svg" alt="behance" height="30" style="max-width:100%;">
+   </a>
    
 </div>
 

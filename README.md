@@ -20,7 +20,7 @@
    
    <!-- Behance badge -->
    <a href="https://www.behance.net/danielsc07">
-      <img src="https://aleen42.github.io/badges/src/behance.svg" alt="behance" height="30" style="max-width:100%;">
+      <img src="https://aleen42.github.io/badges/src/behance.svg" alt="behance" height="20" style="max-width:100%;">
    </a>
    
 </div>

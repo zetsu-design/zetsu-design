@@ -40,7 +40,7 @@ Algunas de las cosas que domino son:
 
 ## 🤔 What you will find here?
 
-Aquí encontrarás algunos proyectos de código, sin embargo gran parte de mi trabajo está en Dribbbel y Behance.
+Aquí encontrarás algunos proyectos de código, sin embargo gran parte de mi trabajo está en Dribbble y Behance.
 
 
 📫 Feel free to contact me at wwalterdsc@gmail.com

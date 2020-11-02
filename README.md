@@ -15,12 +15,12 @@
       
    <!-- Linkedin Profile -->
    <a href="https://www.linkedin.com/in/walter-daniel-sanchez-769734189/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel Sanchez" height="30"> 
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel Sanchez" height="20"> 
    </a>
    
    <!-- Behance badge -->
    <a href="https://www.behance.net/danielsc07">
-      <img src="/aleen42/badges/raw/master/src/behance.svg" alt="behance" height="30" style="max-width:100%;">
+      <img src="https://aleen42.github.io/badges/src/behance.svg" alt="behance" height="30" style="max-width:100%;">
    </a>
    
 </div>
